@@ -13,7 +13,7 @@ cd Extract-Passwords-from-profiles
 python extract_profiles.py -o [path]
 ```
 
-#Images
+# Images
 
 ## Example of entering the command to CMD
 ![image](https://github.com/FZGbzuw412/Extract-Passwords-from-profiles/assets/92334349/44fe2e6b-803b-49ff-9636-e4605a2e042a)
