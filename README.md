@@ -15,10 +15,10 @@ python extract_profiles.py -o [path]
 
 #Images
 
-##Example of entering the command to CMD
+## Example of entering the command to CMD
 ![image](https://github.com/FZGbzuw412/Extract-Passwords-from-profiles/assets/92334349/44fe2e6b-803b-49ff-9636-e4605a2e042a)
 
-##Example of output file
+## Example of output file
 ![image](https://github.com/FZGbzuw412/Extract-Passwords-from-profiles/assets/92334349/e31ced8c-a8d6-4620-96e4-fc7132d03346)
 
 # Licence
